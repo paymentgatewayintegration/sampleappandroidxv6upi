@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8527fec2-e2eb-4d02-ba49-861a2ded87be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____app_libs_pgsdkv6axupi_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_2_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/sampleappandroidxv6upi.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/sampleappandroidxv6upi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_android_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_alpha02_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_alpha02_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_3_0_alpha01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__artifacts_pgsdkv5ax_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/pgsdkv5ax/pgsdkv5ax.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sampleappandroidx.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/SampleAppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/test/pg/secure/sampleapp/SampleAppConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/0520afebc0ea6c8ca2a788ed9de25ab0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/0520afebc0ea6c8ca2a788ed9de25ab0/com.test.pg.secure.pgsdkv4-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/0642b150f2b1021f488611fca56670e9.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3614c254ad4f8ec6f92c362400fc21c2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3614c254ad4f8ec6f92c362400fc21c2/jetified-pgsdkv5ax.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jars/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/arm64-v8a/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/armeabi-v7a/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/x86/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/jni/x86_64/libnative-lib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-anydpi-v21/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-hdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-ldpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-mdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-xhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-xxhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/drawable-xxxhdpi-v4/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/layout/activity_payment_gateway_payment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-hdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-hdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-mdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-mdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xxhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xxhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xxxhdpi-v4/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/mipmap-xxxhdpi-v4/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/raw/omni_cert.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/3743e9e59c5511292c87d05566b17a00/jetified-pgsdkv5ax/res/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5b376fdf6da68e4e977aa90933f9c930.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/5b376fdf6da68e4e977aa90933f9c930/jetified-pgsdkv5ax-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/620f97e09d69e387c74a7a19d123f19e.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/620f97e09d69e387c74a7a19d123f19e/jetified-pgsdkv5ax-runtime/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/8646310952a80a4d3804777072d694e8.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/8646310952a80a4d3804777072d694e8/jetified-pgsdkv5ax-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/891c1c5743621a72af2c0ae65ca79588.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/9e588ae37c5cda9cefe4027e6988b69d.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/a52734867fc47610ae8aaacca62a6c64.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-anydpi-v21_ic_launcher_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-hdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-ldpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-mdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-v24_ic_launcher_foreground.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-xhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-xxhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/drawable-xxxhdpi-v4_ic_launcher_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/layout_activity_payment_gateway_payment.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-hdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-hdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-mdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-mdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xxhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xxhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xxxhdpi-v4_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/mipmap-xxxhdpi-v4_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/ae5f9d5f8d81945e02ffbbcd1a8e480e/com.test.pg.secure.pgsdkv4/raw_omni_cert.crt.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/da0aea0ea94ce2352bf71c03ef551a9c.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/e08efe3b89297d88c098d2c8000aef82.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/build/.transforms/f2d7e1d9f04e0369b9216b68900af5ae.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgsdkv5ax/pgsdkv5ax.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Abhinav\.android\.android\avd\Pixel_XL_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Abhinav\New one\new.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gHQszXqIqlT359JtzHlaY7XhwX" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="sampleappandroidxv6upi.app" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="ExportApk.ApkPath" value="D:\Development\Android\sampleappandroidx\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sampleappv6upi" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="sampleappandroidxv6upi.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8527fec2-e2eb-4d02-ba49-861a2ded87be" name="Default Changelist" comment="" />
+      <created>1597769249132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597769249132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
