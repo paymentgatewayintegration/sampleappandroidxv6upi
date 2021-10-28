@@ -2,13 +2,13 @@ package com.test.pg.secure.sampleapp;
 
 public class SampleAppConstants {
     //API_KEY is given by the Payment Gateway. Please Copy Paste Here.
-    public static final String PG_API_KEY = "d89c4077-c33c-4bde-9207-6c1ce2fcf127";
+    public static final String PG_API_KEY = "XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXXXX";
 
     //URL to Accept Payment Response Afdashboardter Payment. This needs to be done at the client's web server.
-    public static final String PG_RETURN_URL = "https://ecaas.traknpay.in/response_page_test.php";
+    public static final String PG_RETURN_URL = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     //Enter HOSTNAME of the Payment Gateway
-    public static final String PG_PAYMENT_HOSTNAME = "https://pgbiz.omniware.in";
+    public static final String PG_PAYMENT_HOSTNAME = "XXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     //Enter the Mode of Payment Here . Allowed Values are "LIVE" or "TEST".
     public static final String PG_MODE = "LIVE";
